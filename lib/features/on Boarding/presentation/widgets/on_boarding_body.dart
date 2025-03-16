@@ -42,7 +42,7 @@ class OnBoardingBody extends StatelessWidget {
             left: SizeConfig.defaultSize! * 5,
             right: SizeConfig.defaultSize! * 5,
             bottom: SizeConfig.defaultSize! * 4,
-            child: CustomButton(
+            child: CustomGeneralButton(
               onTap: () {
                 Get.to(() => LoginView(),
                     transition: Transition.rightToLeft,
