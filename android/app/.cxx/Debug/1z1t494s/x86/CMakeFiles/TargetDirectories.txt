@@ -1,0 +1,2 @@
+E:/EraSoft/fruits_market/android/app/.cxx/Debug/1z1t494s/x86/CMakeFiles/edit_cache.dir
+E:/EraSoft/fruits_market/android/app/.cxx/Debug/1z1t494s/x86/CMakeFiles/rebuild_cache.dir
